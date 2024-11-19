@@ -11,3 +11,4 @@ dependencies:
   - proplot=0.6.4
   - matplotlib=3.2.0
   - cartopy=0.17.0
+  - xesmf=0.3.0 # regrid
