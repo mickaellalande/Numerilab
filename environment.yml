@@ -10,7 +10,6 @@ dependencies:
   - proplot=0.6.4
   - matplotlib=3.2.0
   - cartopy=0.17.0
-  - intake-esm=2020.6.11 # get CMIP6 data
   - xesmf=0.3.0 # regrid
   - isort
   - esmpy=8.0.1
@@ -24,7 +23,6 @@ dependencies:
   - jupyterlab_code_formatter
   - jupyterlab
   - jupyter
-  - gcsfs # Google Cloud (for intake-esm)
   - zarr # similar to netCDF but more performant (for intake also)
   - cdsapi # usefull to access copernicus data store directly
   - ipympl # for interactive widget matplotlib
