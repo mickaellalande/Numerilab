@@ -22,3 +22,10 @@ dependencies:
   - dask # for parallelization
   - nb_conda_kernels # allow changing kernel in a notebook
   - netcdf4
+  - jupyterlab_code_formatter
+  - jupyterlab
+  - jupyter
+  - gcsfs # Google Cloud (for intake-esm)
+  - zarr # similar to netCDF but more performant (for intake also)
+  - cdsapi # usefull to access copernicus data store directly
+  - ipympl # for interactive widget matplotlib
