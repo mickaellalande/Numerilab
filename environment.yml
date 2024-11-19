@@ -1,4 +1,4 @@
-name: erca
+name: numlab
 channels:
   - conda-forge
   - defaults
