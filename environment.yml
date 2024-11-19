@@ -11,4 +11,3 @@ dependencies:
   - proplot=0.6.4
   - matplotlib=3.2.0
   - cartopy=0.17.0
-  - intake-esm=2020.6.11 # get CMIP6 data
