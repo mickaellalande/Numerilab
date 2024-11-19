@@ -1,4 +1,3 @@
-# conda env create -f environment.yml
 name: erca
 channels:
   - conda-forge
@@ -29,4 +28,3 @@ dependencies:
   - zarr # similar to netCDF but more performant (for intake also)
   - cdsapi # usefull to access copernicus data store directly
   - ipympl # for interactive widget matplotlib
-
