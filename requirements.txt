@@ -1,8 +1,9 @@
+numpy<2.0
+matplotlib<3.5
 xarray
 pooch
 nc-time-axis
 proplot
-matplotlib
 cartopy
 intake-esm
 xesmf
