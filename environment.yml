@@ -10,4 +10,3 @@ dependencies:
   - proplot
   - cartopy
   - netcdf4
-  - ipympl # for interactive widget matplotlib
