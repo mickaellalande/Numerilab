@@ -1,12 +1,9 @@
 # conda env create -f environment.yml
 name: numlab
 channels:
-  - conda-forge
   - defaults
 dependencies:
-  - python
   - xarray
-  - pooch # for xarray tutorial functions
   - matplotlib
   - cartopy
   - netcdf4
