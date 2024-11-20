@@ -6,7 +6,6 @@ matplotlib
 cartopy
 intake-esm
 xesmf
-python-graphviz
 dask
 netcdf4
 gcsfs
