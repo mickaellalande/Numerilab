@@ -8,7 +8,6 @@ dependencies:
   - xarray
   - pooch # for xarray tutorial functions
   - proplot
-  - matplotlib[version='<=3.5']
   - cartopy
   - netcdf4
   - ipympl # for interactive widget matplotlib
