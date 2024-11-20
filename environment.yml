@@ -1,8 +1,0 @@
-name: numlab-min
-channels:
-  - defaults
-dependencies:
-  - xarray
-  - matplotlib
-  - cartopy
-  - netcdf4
